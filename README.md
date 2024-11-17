@@ -38,7 +38,7 @@ The **AI Watch Project** is an innovative health monitoring solution designed to
 8. **Mobile App**:
    - Displays health insights and reports, sends notifications and alerts.
 ## Setup AWS Resources
-Amazon Timestream:
+**Amazon Timestream:**
 
 Configure a database and table for IoT data ingestion.
 
