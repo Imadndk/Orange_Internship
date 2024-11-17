@@ -1,7 +1,7 @@
 # Orange Maroc Internship (Orange Summer Challenge 2024)
-# AI Watch: Real-Time Health Monitoring and Alert System
+# AI Bracelet: Real-Time Health Monitoring and Alert System
 
-The **AI Watch Project** is an innovative health monitoring solution designed to predict and alert users about critical health conditions such as heart attacks, hyperglycemia, and hypoglycemia. Leveraging **IoT devices**, **machine learning**, and **generative AI**, it provides real-time insights and personalized health reports accessible via a mobile app.
+The **AI Bracelet Project** is an innovative health monitoring solution designed to predict and alert users about critical health conditions such as heart attacks, hyperglycemia, and hypoglycemia. Leveraging **IoT devices**, **machine learning**, and **generative AI**, it provides real-time insights and personalized health reports accessible via a mobile app.
 
 ---
 
@@ -13,7 +13,7 @@ The **AI Watch Project** is an innovative health monitoring solution designed to
 - **Generative AI Integration**: Generate text-based medical interpretations of clinical notes and patient surveys using Amazon Bedrock API.
 - **Sentiment Analysis**: Analyze patient responses with Amazon Comprehend to provide deeper insights.
 - **Context Retention**: Maintain diagnostic and conversational histories using LangChain Memory.
-- **Mobile App Integration**: Display predictions, alerts, and health reports with user-friendly visualization.
+- **Mobile App Integration**: Display vital signs, predictions, alerts, and health reports with user-friendly visualization.
 
 ---
 
