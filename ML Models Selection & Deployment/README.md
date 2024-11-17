@@ -17,7 +17,7 @@ This folder contains Jupyter notebooks for data analysis, model development, eva
      - **Docker**
 
 3. **LSTM Model**:
-   - Development of the **LSTM classification model** to predict urgent medical cases in real-time, based on IoT device data.
+   - Development of the **LSTM multiclassification model** to predict urgent medical cases in advance real-time, based on IoT device data.
 
 ---
 
