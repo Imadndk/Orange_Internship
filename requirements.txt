@@ -1,0 +1,28 @@
+# General Dependencies
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn==1.2.2
+xgboost==1.7.5
+tensorflow==2.13.0
+langchain==0.0.209
+boto3==1.26.9
+sagemaker==2.124.0
+awscli==1.27.44
+
+# AWS Services
+amazon-bedrock==0.1.0
+aws-lambda-powertools==2.16.0
+
+# Docker & Containerization
+docker==6.9.0
+
+# Data Preprocessing
+scikit-learn==1.2.2
+statsmodels==0.14.0
+
+# API Testing (for Postman)
+requests==2.31.0
+
+# Jupyter Notebooks
+jupyterlab==4.0.0
+notebook==6.5.1
