@@ -1,4 +1,4 @@
-# Orange Internship (Orange Summer Challenge)
+# Orange Maroc Internship (Orange Summer Challenge 2024)
 # AI Watch: Real-Time Health Monitoring and Alert System
 
 The **AI Watch Project** is an innovative health monitoring solution designed to predict and alert users about critical health conditions such as heart attacks, hyperglycemia, and hypoglycemia. Leveraging **IoT devices**, **machine learning**, and **generative AI**, it provides real-time insights and personalized health reports accessible via a mobile app.
