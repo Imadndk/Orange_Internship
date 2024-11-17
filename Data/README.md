@@ -21,7 +21,9 @@ The **MIMIC-III** dataset is a rich, publicly available dataset that captures hi
 
 ## **Contents**
 - **Synthetic_Data/**: Scripts and CSV files for the synthetic dataset.
-- **MIMIC-III_Access/**: Configuration files and scripts for accessing MIMIC-III via AWS. [https://aws.amazon.com/blogs/big-data/perform-biomedical-informatics-without-a-database-using-mimic-iii-data-and-amazon-athena/]
+- **MIMIC-III_Access/**: Configuration files and scripts for accessing MIMIC-III via AWS.
+  [https://physionet.org/content/mimiciii/1.4/]
+  [https://aws.amazon.com/blogs/big-data/perform-biomedical-informatics-without-a-database-using-mimic-iii-data-and-amazon-athena/]
 
 ---
 
