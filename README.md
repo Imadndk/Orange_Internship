@@ -37,7 +37,30 @@ The **AI Watch Project** is an innovative health monitoring solution designed to
    - Stores generative AI outputs and patient data securely.
 8. **Mobile App**:
    - Displays health insights and reports, sends notifications and alerts.
+## Setup AWS Resources
+Amazon Timestream:
 
+Configure a database and table for IoT data ingestion.
+
+Amazon SageMaker:
+
+Deploy pre-trained models (LSTM, Linear Regression, XGBoost) for real-time inference.
+
+Amazon Bedrock:
+
+Enable Amazon Titan and LLama 3 models for text generation.
+
+Amazon S3:
+
+Set up a bucket for storing outputs and diagnostic logs.
+
+AWS Lambda:
+
+Deploy Lambda functions using the lambda directory.
+
+API Gateway:
+
+Configure APIs for triggering models and handling requests.
 ---
 
 ## Features
