@@ -1,4 +1,4 @@
-# AI Watch: Machine Learning Notebooks
+# AI Bracelet: Machine Learning Notebooks
 
 This folder contains Jupyter notebooks for data analysis, model development, evaluation, and deployment as part of the AI Bracelet project.
 
@@ -53,16 +53,7 @@ def lambda_handler(event, context):
     endpoint_name = 'tensorflow-inference-2024-10-29-18-54-28-088'
 
     sample = [[
-        [85, 18, 140, 90, 37.0, 98],
-        [88, 18, 142, 92, 37.1, 97],
-        [90, 19, 145, 94, 37.2, 96],
-        [92, 19, 147, 95, 37.3, 95],
-        [94, 20, 150, 97, 37.4, 94],
-        [96, 20, 152, 98, 37.5, 93],
-        [98, 21, 155, 100, 37.6, 92],
-        [100, 21, 157, 102, 37.7, 91],
-        [102, 22, 160, 103, 37.8, 90],
-        [104, 22, 162, 105, 37.9, 89]
+        ###
     ]]
     
     payload = json.dumps(sample)
