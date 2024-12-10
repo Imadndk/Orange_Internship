@@ -60,7 +60,9 @@ Deploy Lambda functions using the lambda directory.
 
 **API Gateway**
 
-**Amazon CloudWatch**
+**Amazon CloudWatch:**
+
+Monitoring the deployed models constantly.
 
 Configure APIs for triggering models and handling requests.
 ---
