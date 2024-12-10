@@ -58,7 +58,9 @@ Set up a bucket for storing outputs and diagnostic logs.
 
 Deploy Lambda functions using the lambda directory.
 
-**API Gateway:**
+**API Gateway**
+
+**Amazon CloudWatch**
 
 Configure APIs for triggering models and handling requests.
 ---
